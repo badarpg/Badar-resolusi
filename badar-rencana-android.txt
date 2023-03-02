@@ -1,6 +1,9 @@
 belajar kotlin
+^android studio
 -mempeljari materi struktur data
 belajar xml
 *membuat layout aplikasi 
 belajar java
+^neatbeans
 *praktik 
+materi python
