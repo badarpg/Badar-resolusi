@@ -1,4 +1,5 @@
 belajar kotlin
+-mempeljari materi struktur data
 belajar xml
 *membuat layout aplikasi 
 belajar java
