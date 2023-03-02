@@ -1,3 +1,4 @@
 konsisten belajar untuk jadi fullstack programming
 membuat beberapa program website
 rencana UI/UX design
+membuat vidio animasi 
